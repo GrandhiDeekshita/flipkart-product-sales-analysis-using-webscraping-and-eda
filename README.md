@@ -48,17 +48,26 @@ Higher RAM values strongly correlate with higher pricing across categories.
 
 Tablets consistently achieve the best average customer ratings, followed by mobiles and laptops.
 Visualizations Included
+Challenges Faced
 
-Price Distribution
+Changing HTML structure of Flipkart pages
 
-Rating Distribution
+Missing values in features (ex: some phones don’t list processors or ROM)
 
-Average Rating by Category
+Different patterns of camera specification text
 
-Price vs RAM (Scatter Plot)
+Need to clean non-numeric characters from price
 
-Processor Count Distribution
+Handling repeated product blocks on each page
+Conclusion
 
-Category-wise Price Boxplots
+This project demonstrates complete data workflow:
+✅ Scraping → ✅ Cleaning → ✅ Preprocessing → ✅ Visualization → ✅ Insights
 
-Multivariate Pairplot
+It is useful for understanding market trends and for anyone learning web scraping, Python, and data analysis.
+Contact
+
+If you have any suggestions or improvements, feel free to contribute or contact me.
+
+📧 Email: deekshithagrandhi@gmail.com
+🔗 GitHub: https://github.com/GrandhiDeekshita
