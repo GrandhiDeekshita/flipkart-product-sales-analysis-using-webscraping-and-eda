@@ -27,7 +27,8 @@ Web Scraping : Requests, BeautifulSoup
 Data Cleaning : Pandas, NumPy
 Visualization : 	Matplotlib, Seaborn
 Documentation	Jupyter Notebook
-Key Insights
+
+Key Insights:
 📌 1. Price Distribution
 
 Most products fall between ₹10,000 – ₹50,000, indicating high demand in the mid-range segment.
@@ -48,7 +49,7 @@ Higher RAM values strongly correlate with higher pricing across categories.
 
 Tablets consistently achieve the best average customer ratings, followed by mobiles and laptops.
 Visualizations Included
-Challenges Faced
+Challenges Faced:
 
 Changing HTML structure of Flipkart pages
 
@@ -59,7 +60,7 @@ Different patterns of camera specification text
 Need to clean non-numeric characters from price
 
 Handling repeated product blocks on each page
-Conclusion
+Conclusion:
 
 This project demonstrates complete data workflow:
 ✅ Scraping → ✅ Cleaning → ✅ Preprocessing → ✅ Visualization → ✅ Insights
