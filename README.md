@@ -1,8 +1,7 @@
 # flipkart-product-sales-analysis-using-webscraping-and-eda
 Requirements
 requests
-beautifulsoup4
-lxml
+beautifulsoup
 pandas
 numpy
 matplotlib
